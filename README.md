@@ -2,6 +2,9 @@
 
 This repo accompanies the paper "Brain2GAN; Disentangling neural representations underlying perception in the primate brain via GANs" where we aimed to characterize the high-level neural representations as recorded via cortical implants in a macaque. Our results show that feature-disentangled GAN latents outperform other candidate representations of the visual data in predicting high-level brain activity (i.e., _neural encoding_). We then used these feature-disentangled representations to reconstruct the perceived stimuli from brain activity with state-of-the-art quality (i.e., _neural decoding_). You can find our implementations of neural encoding and -decoding in the provided Jupyter notebooks. The brain recordings to achieve these results will be made available upon publication of the paper.
 
+<img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/img.png" alt="stim-recon"/>
+
+
 ### Notebooks
 The following Jupyter notebooks are included in this repository:
 
