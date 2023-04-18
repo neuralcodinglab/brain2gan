@@ -21,18 +21,18 @@ The following Jupyter notebooks are included in this repository:
 
 <table>
   <tr>
-    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0093.gif" width="200"></td>
-    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0018.gif" width="200"></td>
-    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0038.gif" width="200"></td>
-    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0001.gif" width="200"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0093.gif" width="150"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0018.gif" width="150"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0038.gif" width="150"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0001.gif" width="150"></td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0094.gif" width="200"></td>
-    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0197.gif" width="200"></td>
-    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0081.gif" width="200"></td>
-    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0114.gif" width="200"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0094.gif" width="150"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0197.gif" width="150"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0081.gif" width="150"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0114.gif" width="150"></td>
   </tr>
 </table>
