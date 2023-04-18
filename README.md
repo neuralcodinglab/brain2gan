@@ -16,11 +16,11 @@ The following Jupyter notebooks are included in this repository:
 
 ### Time-based reconstruction 
 
-<table>
+<!-- <table>
   <tr>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0093.gif" width="200"></td>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0018.gif" width="200"></td>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0038.gif" width="200"></td>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0001.gif" width="200"></td>
   </tr>
-</table>
+</table> -->
