@@ -15,4 +15,4 @@ The following Jupyter notebooks are included in this repository:
 </ul>
 
 ### Time-based reconstruction 
-
+![](https://github.com/neuralcodinglab/brain2gan/media/0038.gif)
