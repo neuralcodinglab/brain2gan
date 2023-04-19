@@ -23,7 +23,7 @@ The following Jupyter notebooks are included in this repository:
 </p>
 
 ### Time-based neural decoding
-<p align="justify">The use of intracranial recordings provided for spatiotemporal analysis of brain activity in unprecedented detail. The gifs below illustrate how meaningful information is extracted from the stimulus-evoked brain responses in time. Per trial, neural responses were responses were recorded for 300 ms with stimulus onset at 100 ms. Prior to stimulus onset, the reconstruction is an average-looking image, after which it starts to take on an appearance that closely resembles the originally perceived stimulus.</p>
+<p align="justify">The use of intracranial recordings provided for spatiotemporal analysis of brain activity in unprecedented detail. The gifs below illustrate how meaningful information is extracted from the stimulus-evoked brain responses in time. Per trial, neural responses were responses were recorded for 300 ms with stimulus onset at 100 ms. Prior to stimulus onset, the reconstruction is an average-looking image, after which it starts to take on an appearance that closely resembles the originally perceived stimulus (see image above).</p>
 
 <table>
   <tr>
