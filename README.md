@@ -1,6 +1,6 @@
 # Brain2GAN
 
-<p align="justify">This repo accompanies the paper "Brain2GAN; Disentangling neural representations underlying perception in the primate brain via GANs" where we aimed to characterize the high-level neural representations as recorded via cortical implants in a macaque. Our results show that feature-disentangled GAN latents outperform other candidate representations of the visual data in predicting high-level brain activity (i.e., _neural encoding_). We then used these feature-disentangled representations to reconstruct the perceived stimuli from brain activity with state-of-the-art quality (i.e., _neural decoding_). You can find our implementations of neural encoding and -decoding in the provided Jupyter notebooks. The brain recordings to achieve these results will be made available upon publication of the paper.</p>
+<p>This repo accompanies the paper "Brain2GAN; Disentangling neural representations underlying perception in the primate brain via GANs" where we aimed to characterize the high-level neural representations as recorded via cortical implants in a macaque. Our results show that feature-disentangled GAN latents outperform other candidate representations of the visual data in predicting high-level brain activity (i.e., _neural encoding_). We then used these feature-disentangled representations to reconstruct the perceived stimuli from brain activity with state-of-the-art quality (i.e., _neural decoding_). You can find our implementations of neural encoding and -decoding in the provided Jupyter notebooks. The brain recordings to achieve these results will be made available upon publication of the paper.</p>
 
 
 
@@ -9,7 +9,7 @@
 
 ### Notebooks
 
-<p align="justify">
+<p>
 The following Jupyter notebooks are included in this repository:
 
 <ul>
@@ -23,7 +23,7 @@ The following Jupyter notebooks are included in this repository:
 </p>
 
 ### Time-based neural decoding
-<p align="justify">The use of intracranial recordings provided for spatiotemporal analysis of brain activity in unprecedented detail. The gifs below illustrate how meaningful information is extracted from the stimulus-evoked brain responses in time. Per trial, neural responses were responses were recorded for 300 ms with stimulus onset at 100 ms. Prior to stimulus onset, the reconstruction is an average-looking image, after which it starts to take on an appearance that closely resembles the originally perceived stimulus (see image above).</p>
+<p>The use of intracranial recordings provided for spatiotemporal analysis of brain activity in unprecedented detail. The gifs below illustrate how meaningful information is extracted from the stimulus-evoked brain responses in time. Per trial, neural responses were responses were recorded for 300 ms with stimulus onset at 100 ms. Prior to stimulus onset, the reconstruction is an average-looking image, after which it starts to take on an appearance that closely resembles the originally perceived stimulus (see image above).</p>
 
 <table>
   <tr>
