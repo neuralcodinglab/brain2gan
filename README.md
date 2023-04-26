@@ -31,11 +31,6 @@ The following Jupyter notebooks are included in this repository:
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0018.gif"></td>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0038.gif"></td>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0001.gif"></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0094.gif"></td>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0197.gif"></td>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0081.gif"></td>
