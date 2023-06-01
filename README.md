@@ -26,6 +26,16 @@ The following Jupyter notebooks are included in this repository:
 <p>The use of intracranial recordings provided for spatiotemporal analysis of brain activity in unprecedented detail. The gifs below illustrate how meaningful information is extracted from the stimulus-evoked brain responses in time. Per trial, neural responses were responses were recorded for 300 ms with stimulus onset at 100 ms. Prior to stimulus onset, the reconstruction is an average-looking image, after which it starts to take on an appearance that closely resembles the originally perceived stimulus (see image above).</p>
 
 <table>
+    <tr>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0093.png"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0018.png"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0038.png"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0001.png"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0094.png"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0197.png"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0081.png"></td>
+    <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/_0114.png"></td>
+  </tr>
   <tr>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0093.gif"></td>
     <td><img src="https://github.com/neuralcodinglab/brain2gan/blob/main/media/0018.gif"></td>
